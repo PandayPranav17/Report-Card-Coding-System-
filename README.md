@@ -18,7 +18,7 @@ File Operations: Records are stored in a binary file named student.dat, with fun
 Exception Handling: Includes basic exception handling for user input validation.
 
 Code Breakdown
-Classes and Structs:
+Classes and Structures:
 
 inforOfStudent: Manages student data and operations related to student records.
 Calculate: Inherits from inforOfStudent for calculation-related operations.
